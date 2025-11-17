@@ -1,8 +1,8 @@
-# 📝 Investigación sobre Markdown y su uso en proyectos de software
+#  Investigación sobre Markdown y su uso en proyectos de software
 
 ---
 
-## ✅ 1. ¿Qué es Markdown y por qué se utiliza en proyectos de software?
+##  1. ¿Qué es Markdown y por qué se utiliza en proyectos de software?
 
 **Markdown** es un lenguaje de marcado ligero que permite escribir documentos en texto plano con formato sencillo.  
 Fue creado para ser fácil de leer incluso sin procesarlo.
@@ -17,9 +17,9 @@ En proyectos de software se utiliza porque:
 
 ---
 
-## ✅ 2. Ejemplo práctico de uso de Markdown
+##  2. Ejemplo práctico de uso de Markdown
 
-### 📌 Encabezados
+###  Encabezados
 
 ```md
 # Título nivel 1
@@ -27,7 +27,7 @@ En proyectos de software se utiliza porque:
 ### Título nivel 3
 ```
 
-### 📌 Listas
+###  Listas
 
 **Lista ordenada:**
 
@@ -45,24 +45,24 @@ En proyectos de software se utiliza porque:
 - Elemento C
 ```
 
-### 📌 Tablas
+###  Tablas
 
 | Nombre | Edad | Ciudad |
 |--------|------|--------|
 | Ana    | 22   | Quito  |
 | Luis   | 25   | Lima   |
 
-### 📌 Enlaces
+###  Enlaces
 
 [Ir a GitHub](https://github.com)
 
-### 📌 Imágenes
+###  Imágenes
 
 ![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 
-## ✅ 3. Ventajas de utilizar Markdown en combinación con GitHub
+##  3. Ventajas de utilizar Markdown en combinación con GitHub
 
 - GitHub renderiza Markdown automáticamente.  
 - La documentación se ve profesional en el repositorio.  
@@ -73,7 +73,7 @@ En proyectos de software se utiliza porque:
 
 ---
 
-## 🏁 Conclusión
+##  Conclusión
 
 Markdown es una herramienta simple pero poderosa para la documentación en proyectos de software.  
 Su sintaxis ligera permite a desarrolladores y equipos crear y mantener documentación legible y versionable sin barreras técnicas.  
