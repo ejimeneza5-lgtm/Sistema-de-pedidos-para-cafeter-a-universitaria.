@@ -81,7 +81,7 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 
 | Caso | Requerimiento | Escenario | Resultado Esperado |
 |------|---------------|-----------|--------------------|
-| PV1 | RF1 | Abrir menú | Se muestran solo productos disponibles. |
+| PV1 | RF1 | Usuario abre el menú | Se muestran solo productos disponibles. |
 | PV2 | RNF1 | Confirmar pedido de 5 artículos | El pedido se confirma en ≤ 1.5 segundos. |
 | PV3 | RF7 | Generación de comprobante | Se muestra ticket con totales e IVA. |
 | PV4 | RNF2 | Usuario sin experiencia registra un pedido | Lo realiza sin dificultad. |
