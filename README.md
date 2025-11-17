@@ -116,15 +116,16 @@ El uso de control de versiones mediante **Git y GitHub** es fundamental porque:
 
 ---
 
-## 📚 7. Bibliografía
-
-- Jain, A. (2025). *Requisitos funcionales y no funcionales*. Visure Solutions.  
-- Mentores Tech (2025). *Tipos de requerimientos en software*.  
-
----
-
-## 🏁 8. Conclusión
+## 📚 7. Conclusión
 
 La integración de requerimientos, pruebas y mantenimiento asegura que el sistema sea escalable, eficiente y confiable para la cafetería.  
 El uso de GitHub fortalece la organización, control y trabajo colaborativo durante el ciclo de vida del software.
+
+
+---
+
+## 🏁 8. Bibliografía
+
+- Jain, A. (2025). *Requisitos funcionales y no funcionales*. Visure Solutions.  
+- Mentores Tech (2025). *Tipos de requerimientos en software*.  
 
