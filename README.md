@@ -42,8 +42,7 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 | 2 | RF2 | El sistema debe permitir agregar, editar, eliminar y consultar productos	del	menú. |
 | 3 | RF3 | El sistema debe calcular de forma automática el valor total del pedido según los productos seleccionados y sus cantidades. |
 | 4 | RF4 | El sistema debe permitir cambiar el estado de un pedido. |
-| 5 | RF5 | El sistema debe generar un comprobante del pedido con los detalles de los productos, precios y total a pagar, que pueda
-imprimirse o visualizarse en pantalla. |
+| 5 | RF5 | El sistema debe generar un comprobante del pedido con los detalles de los productos, precios y total a pagar. |
 | 6 | RF6 | El sistema debe mostrar únicamente los productos disponibles, organizados por categorías para facilitar la selección. |
 | 7 | RF7 | El sistema debe permitir registrar un pedido con opciones personalizadas como notas o preferencias especiales del cliente. |
 | 8 | RF8 | El sistema debe permitir modificar las cantidades, agregar o eliminar productos del pedido antes de confirmarlo. |
