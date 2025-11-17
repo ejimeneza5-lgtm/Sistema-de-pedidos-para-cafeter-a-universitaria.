@@ -1,9 +1,9 @@
-# 📘 Sistema de Pedidos para la Cafetería Universitaria  
+# Sistema de Pedidos para la Cafetería Universitaria  
 ### **README.md – Documento Final Integrado (Versión Completa y Actualizada)**
 
 ---
 
-## 📝 1. Descripción del Caso
+##  1. Descripción del Caso
 
 El **Sistema de Pedidos para la Cafetería Universitaria** fue desarrollado para agilizar la toma de pedidos, mejorar la organización interna y optimizar la comunicación entre caja y cocina.  
 Permite una gestión eficiente, precisa y estructurada de los pedidos.
@@ -18,7 +18,7 @@ El sistema incluye:
 
 ---
 
-## 🎯 2. Objetivos del Sistema
+##  2. Objetivos del Sistema
 
 ### **Objetivo General**
 Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y de fácil uso.
@@ -32,9 +32,9 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 
 ---
 
-## 🧩 3. Requerimientos del Sistema (Versión Final Integrada)
+##  3. Requerimientos del Sistema (Versión Final Integrada)
 
-### 🟦 **Requerimientos Funcionales (Combinados V1 + V2)**
+###  **Requerimientos Funcionales (Combinados V1 + V2)**
 
 | Nº | Código | Descripción |
 |----|--------|-------------|
@@ -50,7 +50,7 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 | 10 | RF10 | El sistema debe enviar los pedidos confirmados al módulo de cocina y permitir actualizar su estado entre las etapas establecidas. |
 ---
 
-### 🟨 **Requerimientos No Funcionales (Combinados y Ampliados)**
+###  **Requerimientos No Funcionales (Combinados y Ampliados)**
 
 | Nº | Código | Descripción |
 |----|--------|-------------|
@@ -63,9 +63,9 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 
 ---
 
-## 🧪 4. Tabla de Pruebas (Integrada)
+##  4. Tabla de Pruebas (Integrada)
 
-### ✔ **Casos de Prueba Unitarios**
+###  **Casos de Prueba Unitarios**
 
 | Caso | Requerimiento | Entrada | Resultado Esperado |
 |------|---------------|---------|--------------------|
@@ -77,7 +77,7 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 
 ---
 
-### ✔ **Casos de Validación**
+###  **Casos de Validación**
 
 | Caso | Requerimiento | Escenario | Resultado Esperado |
 |------|---------------|-----------|--------------------|
@@ -89,20 +89,20 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 
 ---
 
-## 🛠️ 5. Tipo de Mantenimiento Propuesto
+##  5. Tipo de Mantenimiento Propuesto
 
-### ⭐ **Mantenimiento Perfectivo**
+###  **Mantenimiento Perfectivo**
 - Integrar un módulo de seguimiento del pedido para el cliente.  
 - Incorporar notificaciones PUSH, SMS o dentro del sistema.  
 - Mejorar accesibilidad (modo oscuro, escalado de fuentes).  
 
-### 🐞 **Mantenimiento Correctivo**
+###  **Mantenimiento Correctivo**
 - Corregir errores encontrados en la cancelación de pedidos.  
 - Resolver inconsistencias al actualizar estados del pedido.  
 
 ---
 
-## 🔄 6. Reflexión sobre el Control de Versiones
+##  6. Reflexión sobre el Control de Versiones
 
 El uso de control de versiones mediante **Git y GitHub** es fundamental porque:
 
@@ -118,7 +118,7 @@ El uso de control de versiones mediante **Git y GitHub** es fundamental porque:
 
 ---
 
-## 📚 7. Conclusión
+##  7. Conclusión
 
 La integración de requerimientos, pruebas y mantenimiento asegura que el sistema sea escalable, eficiente y confiable para la cafetería.  
 El uso de GitHub fortalece la organización, control y trabajo colaborativo durante el ciclo de vida del software.
@@ -126,7 +126,7 @@ El uso de GitHub fortalece la organización, control y trabajo colaborativo dura
 
 ---
 
-## 🏁 8. Bibliografía
+##  8. Bibliografía
 
 - Jain, A. (2025). *Requisitos funcionales y no funcionales*. Visure Solutions.  
 - Mentores Tech (2025). *Tipos de requerimientos en software*.  
