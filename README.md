@@ -38,14 +38,17 @@ Optimizar la gestión de pedidos mediante un sistema digital ágil, eficiente y 
 
 | Nº | Código | Descripción |
 |----|--------|-------------|
-| 1 | RF1 | El sistema debe mostrar únicamente los productos disponibles, organizados por categorías. |
-| 2 | RF2 | El sistema debe permitir registrar un pedido con datos del cliente y notas opcionales. |
-| 3 | RF3 | El sistema debe permitir modificar cantidades y eliminar productos antes de confirmar el pedido. |
-| 4 | RF4 | El sistema debe calcular automáticamente subtotal, impuestos (IVA) y total final. |
-| 5 | RF5 | El sistema debe permitir agregar, editar, eliminar y consultar productos del menú. |
-| 6 | RF6 | El sistema debe enviar pedidos confirmados al módulo de cocina y permitir actualizar su estado. |
-| 7 | RF7 | El sistema debe generar un comprobante detallado del pedido para impresión o visualización. |
-
+| 1 | RF1 | El sistema debe permitir al usuario seleccionar productos del menú y registrar un pedido con los datos del cliente. |
+| 2 | RF2 | El sistema debe permitir agregar, editar, eliminar y consultar productos	del	menú. |
+| 3 | RF3 | El sistema debe calcular de forma automática el valor total del pedido según los productos seleccionados y sus cantidades. |
+| 4 | RF4 | El sistema debe permitir cambiar el estado de un pedido. |
+| 5 | RF5 | El sistema debe generar un comprobante del pedido con los detalles de los productos, precios y total a pagar, que pueda
+imprimirse o visualizarse en pantalla. |
+| 6 | RF6 | El sistema debe mostrar únicamente los productos disponibles, organizados por categorías para facilitar la selección. |
+| 7 | RF7 | El sistema debe permitir registrar un pedido con opciones personalizadas como notas o preferencias especiales del cliente. |
+| 8 | RF8 | El sistema debe permitir modificar las cantidades, agregar o eliminar productos del pedido antes de confirmarlo. |
+| 9 | RF9 | El sistema debe calcular automáticamente el subtotal, impuesto (IVA) y total final del pedido. |
+| 10 | RF10 | El sistema debe enviar los pedidos confirmados al módulo de cocina y permitir actualizar su estado entre las etapas establecidas. |
 ---
 
 ### 🟨 **Requerimientos No Funcionales (Combinados y Ampliados)**
